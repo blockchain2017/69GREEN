@@ -1,6 +1,6 @@
 # 69GREEN, The Token For Marketplace & EVCar Charger Station
 
-<div align="center"><img src="https://69evcrypto.com/main1/wp-content/uploads/2024/02/logo300x300.fw_.png" /><br />
+<div align="center"><img src="https://69greencrypto.com/main1/wp-content/uploads/2024/02/logo300x300.fw_.png" /><br />
 </div>
 <div align="center">
   <h1>
